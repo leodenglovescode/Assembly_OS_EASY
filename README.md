@@ -4,3 +4,6 @@ You can edit it freely, also try to credit Mike and Me! and FORK this if you wan
 I will answer any questions in fourms!
 Creds: Thanks a lot to Mike saunders and his original OS MikeOS Website: http://mikeos.sourceforge.net/
 My Website : https://leodenglovescode.github.io/leodeng.github.io/
+
+This PROJECT has an GPL3.0 License...
+following the 署名-非商业性使用 4.0 国际 or Attribution 4.0 International license, this project CAN be shared, but it CANNOT be used commercially...
